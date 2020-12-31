@@ -8,6 +8,6 @@ At 5 months old he was on breast milk only and transitioned to solids around 6 m
 Raw data is uploaded as well as python codes for analysis and plotting. 
 
 imgur upload for easier graph viewing
-https://imgur.com/a/IzWHOZT
+https://imgur.com/gallery/IzWHOZT
 
 Impact function for poo data is equal to number of poos + absoloute value of (bristol stool scale score - 4)) * size of poo
