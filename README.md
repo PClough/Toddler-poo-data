@@ -10,4 +10,6 @@ Raw data is uploaded as well as python codes for analysis and plotting.
 imgur upload for easier graph viewing
 https://imgur.com/gallery/IzWHOZT
 
+Reddit upload - https://www.reddit.com/r/dataisbeautiful/comments/knxlud/oc_my_toddlers_poos_in_2020/
+
 Impact function for poo data is equal to number of poos + absolute value of (bristol stool scale score - 4)) * size of poo
